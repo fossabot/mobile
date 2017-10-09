@@ -2,6 +2,7 @@ Minds Mobile App
 ======
 
 [![Build Status](https://magnum.travis-ci.com/Minds/mobile.svg?token=vHzWaxguqXbJqkudCFTn&branch=master)](https://magnum.travis-ci.com/Minds/mobile)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmobile.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmobile?ref=badge_shield)
 
 The minds mobile apps source code repository.
 
@@ -48,6 +49,9 @@ _neo4j is the World’s Leading Graph Database._
 ##License
 
 This project is licensed under the AGPLv3 free software license. See license for full text. 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmobile.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmobile?ref=badge_large)
 
 ##Contributing
 
